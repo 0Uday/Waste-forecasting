@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+outputs/model/
+data/processed/
+spark-warehouse/
+metastore_db/
+derby.log
+*.parquet
+.DS_Store
+.idea/
+.vscode/
